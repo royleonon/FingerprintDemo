@@ -11,8 +11,6 @@ import android.support.v7.app.AlertDialog;
 import android.util.Log;
 import android.widget.Toast;
 
-import javax.security.auth.login.LoginException;
-
 /**
  * Created by Royle_Koonlert on 4/20/16 AD.
  */
